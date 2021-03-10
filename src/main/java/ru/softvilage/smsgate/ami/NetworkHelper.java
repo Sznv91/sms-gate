@@ -32,7 +32,8 @@ public class NetworkHelper {
             httppost.setEntity(myEntity);
             httppost.addHeader("Content-type", "text/html");
             CloseableHttpResponse response = httpclient.execute(httppost);
-            logger.info("sendToServer -> отправили на сервер JSON: " + json.toString());
+            logger.info("sendToServer -> отправили на сервер JSON: " + json.toString() +
+                    " | response code: " + response.getCode());
             return response;
         } catch (IOException e) {
             logger.error("sendToServer -> отправка JSON не удалась. JSON: " + json.toString(), e);
