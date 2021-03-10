@@ -1,0 +1,30 @@
+2021-03-09 21:45:41,010 INFO r.s.s.SmsGateApplication [main] Starting SmsGateApplication using Java 15.0.2 on DESKTOP-167ADO2 with PID 13212 (C:\Java\Projects\production\sms-gate\target\classes started by User in C:\Java\Projects\production\sms-gate)
+2021-03-09 21:45:41,016 DEBUG r.s.s.SmsGateApplication [main] Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-09 21:45:41,017 INFO r.s.s.SmsGateApplication [main] No active profile set, falling back to default profiles: default
+2021-03-09 21:45:41,680 INFO r.s.s.a.AmiConfig [main] Выполнили чтение креденшинолов AmiConfig(host=192.168.14.111, port=5038, userName=admadm, secret=pwdpwd)
+2021-03-09 21:45:41,681 INFO r.s.s.a.AmiConnect [main] astConn() -> try connect to GSM Gate
+2021-03-09 21:45:41,686 DEBUG r.s.s.a.AmiConfig [main] receiveFromAmi-> Входящая переадача от AmiConnect -> Asterisk Call Manager/1.1
+2021-03-09 21:45:41,740 DEBUG r.s.s.a.AmiConfig [main] receiveFromAmi-> Входящая переадача от AmiConnect -> Response: Success
+2021-03-09 21:45:41,740 DEBUG r.s.s.a.AmiConfig [main] receiveFromAmi-> Входящая переадача от AmiConnect -> Message: Authentication accepted
+2021-03-09 21:45:41,740 DEBUG r.s.s.a.AmiConfig [main] receiveFromAmi-> Входящая переадача от AmiConnect -> 
+2021-03-09 21:53:50,511 INFO r.s.s.SmsGateApplication [main] Starting SmsGateApplication using Java 15.0.2 on DESKTOP-167ADO2 with PID 12928 (C:\Java\Projects\production\sms-gate\target\classes started by User in C:\Java\Projects\production\sms-gate)
+2021-03-09 21:53:50,517 DEBUG r.s.s.SmsGateApplication [main] Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-09 21:53:50,518 INFO r.s.s.SmsGateApplication [main] No active profile set, falling back to default profiles: default
+2021-03-09 21:59:46,457 INFO r.s.s.SmsGateApplication [main] Starting SmsGateApplication using Java 15.0.2 on DESKTOP-167ADO2 with PID 13060 (C:\Java\Projects\production\sms-gate\target\classes started by User in C:\Java\Projects\production\sms-gate)
+2021-03-09 21:59:46,463 DEBUG r.s.s.SmsGateApplication [main] Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-09 21:59:46,464 INFO r.s.s.SmsGateApplication [main] No active profile set, falling back to default profiles: default
+2021-03-09 22:00:27,486 INFO r.s.s.SmsGateApplication [main] Starting SmsGateApplication using Java 15.0.2 on DESKTOP-167ADO2 with PID 6024 (C:\Java\Projects\production\sms-gate\target\classes started by User in C:\Java\Projects\production\sms-gate)
+2021-03-09 22:00:27,492 DEBUG r.s.s.SmsGateApplication [main] Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-09 22:00:27,493 INFO r.s.s.SmsGateApplication [main] No active profile set, falling back to default profiles: default
+2021-03-09 22:02:33,512 INFO r.s.s.SmsGateApplication [main] Starting SmsGateApplication using Java 15.0.2 on DESKTOP-167ADO2 with PID 11524 (C:\Java\Projects\production\sms-gate\target\classes started by User in C:\Java\Projects\production\sms-gate)
+2021-03-09 22:02:33,517 DEBUG r.s.s.SmsGateApplication [main] Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-09 22:02:33,518 INFO r.s.s.SmsGateApplication [main] No active profile set, falling back to default profiles: default
+2021-03-09 22:04:11,254 INFO r.s.s.SmsGateApplication [main] Starting SmsGateApplication using Java 15.0.2 on DESKTOP-167ADO2 with PID 4156 (C:\Java\Projects\production\sms-gate\target\classes started by User in C:\Java\Projects\production\sms-gate)
+2021-03-09 22:04:11,260 DEBUG r.s.s.SmsGateApplication [main] Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-09 22:04:11,261 INFO r.s.s.SmsGateApplication [main] No active profile set, falling back to default profiles: default
+2021-03-09 22:04:11,930 INFO r.s.s.a.AmiConfig [main] Выполнили чтение креденшинолов AmiConfig(host=192.168.14.111, port=5038, userName=admadm, secret=pwdpwd)
+2021-03-09 22:04:11,931 INFO r.s.s.a.AmiConnect [main] astConn() -> try connect to GSM Gate
+2021-03-09 22:04:11,935 DEBUG r.s.s.a.AmiService [main] receiveFromAmi-> Входящая переадача от AmiConnect -> Asterisk Call Manager/1.1
+2021-03-09 22:04:11,976 DEBUG r.s.s.a.AmiService [main] receiveFromAmi-> Входящая переадача от AmiConnect -> Response: Success
+2021-03-09 22:04:11,977 DEBUG r.s.s.a.AmiService [main] receiveFromAmi-> Входящая переадача от AmiConnect -> Message: Authentication accepted
+2021-03-09 22:04:11,977 DEBUG r.s.s.a.AmiService [main] receiveFromAmi-> Входящая переадача от AmiConnect -> 
